@@ -27,7 +27,7 @@
 
 ### Contact With Me
   
-![Email:Sogindiq77@gmail.com](https://img.shields.io/badge/-Sogindiq77@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335) [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Max_Proger) [![Linkedin](![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/sog-indiq-b-a27869233/)
+![Email:Sogindiq77@gmail.com](https://img.shields.io/badge/-Sogindiq77@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335) [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Max_Proger) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sog-indiq-b-a27869233/)
 
 
 
